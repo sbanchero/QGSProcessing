@@ -1,0 +1,5 @@
+QGSProcessing
+=============
+
+ * Pixels by Polygon
+ 
