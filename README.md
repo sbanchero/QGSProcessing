@@ -1,5 +1,6 @@
 QGSProcessing
 =============
 
- * Pixels by Polygon
- 
+ * Pixels by Polygon.
+ * Calculate Index & Stats Template. 
+
